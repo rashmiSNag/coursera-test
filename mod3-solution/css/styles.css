@@ -1,0 +1,17 @@
+.long-section {
+  background-color: lightgrey;
+}
+.navbar-header{
+	background: #EAA133;
+}
+.navbar-collapse { 
+background:#FBD9A6; /*replace with desired color*/
+} 
+.h3{
+background: #D0CDCE;
+}
+.box {
+  position: relative;
+  border: 1px solid black;
+  background: #DCDCDC;
+}
